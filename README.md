@@ -1,6 +1,6 @@
 - 👋 Hi, I’m still figuring out who i am
 - 👀 I’m interested in ML/DL and web scraping
-- 🌱 I’m currently learning webscraping and automating stuff
+- 🌱 I’m currently learning webscraping
 - 📫 How to reach me tarek.kerbedj99@gmail.com
 
 <!---
